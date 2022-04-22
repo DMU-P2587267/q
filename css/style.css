@@ -226,3 +226,7 @@ padding: 1%;
 margin: 1% 0%;
 background-color: #F4DCF2;
 }
+
+.logo{
+  float: left
+}
